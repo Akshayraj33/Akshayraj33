@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akshayraj33
-- 👀 I’m interested in Cyrpto Currency, Trending Technologies, News and Magazines
+- 👀 I’m interested in Crypto Currency, Trending Technologies, News and Magazines
 - 🌱 I’m currently learning Machine Learning algorithms,Data Structures and python
 - 💞️ I’m looking to collaborate on open-source contributions, side projects, or any exciting tech endeavor.
 - 📫 How to reach: akshayrajchevala3@gmail.com
